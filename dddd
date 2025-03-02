@@ -26,4 +26,17 @@ shoodanloginpage
 
 from this = https://www.shodan.io/search?query=mastercard.com+200+http.title%3A%22Sign+In+-+Fat+Zebra%22
 from this = https://www.shodan.io/search?query=mastercard.com+200+http.title%3A%22Apache2+Ubuntu+Default+Page%3A+It+works%22
-from this = 
+from this = https://www.shodan.io/host/34.233.253.29
+from this = https://www.shodan.io/search?query=mastercard.com+200+http.title%3A%22Login+to+FloCash%22
+from this = https://www.shodan.io/search?query=mastercard.com+200+http.title%3A%22Payment+Gateway%22
+----------------------------------------------------------------------------------------------------------------------------
+GithubDorking 
+
+
+
+
+
+
+
+
+
