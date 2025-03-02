@@ -21,8 +21,9 @@ simplify.com password NOT  demo.kubesimplify.com NOT helpmesimplify.com NOT cc_p
 shoodanloginpage
 
 MasterCard International Incorporated
-www.mastercard.com 200
-
+mastercard.com 200
 shoodanloginpage 
 
+from this = https://www.shodan.io/search?query=mastercard.com+200+http.title%3A%22Sign+In+-+Fat+Zebra%22
+from this = https://www.shodan.io/search?query=mastercard.com+200+http.title%3A%22Apache2+Ubuntu+Default+Page%3A+It+works%22
 from this = 
