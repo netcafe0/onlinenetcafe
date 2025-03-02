@@ -53,9 +53,18 @@ Importantهام from this search = mastercard.com config language:bash
 = https://github.com/MODA-NYC/db-recovery-data-partnership/blob/4ec33ea25b9d12995b7dc0b2baeee44fdbe3793b/recipes/mastercard/runner.sh#L2
 (DataBaseRecovery)
 
+from this search = mastercard.com credentials language:python
+ 
+=https://github.com/TamerNagah/qn_payemet/blob/b33f8e764f726a6ca7f7b78795a8121ccc10aea0/models/res_partner.py#L28
+(7 month ago)
 
 
 
+mastercard.com language:python config = ابقي جربه 
+
+mastercard.com language:python secret = ابقي جربه 
+
+mastercard.com Ldap = جرب دي
 
 
 
