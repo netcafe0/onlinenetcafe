@@ -1,24 +1,5 @@
 
 
-[!] POSSIBLE SIMPLE PASSWORDS TOKEN FOUND (keyword used:deriv.com)
-[+] Commit (853 days ago) : 2022-11-02T08:13:00Z by yashim@deriv.com
-[+] RAW URL : https://raw.githubusercontent.com/coderempits/deriv-com-sandbox/4fe6f0ffc52d057e3421f30fe770b12d5947a47f/src/types/graphql.types.ts
-[+] Token : password: MaybeScalars[String]
-[+] Repository URL : https://github.com/coderempits/deriv-com-sandbox
-
-search in page for
-
-GB_STAGING_CLIENT_KEY =
-
-RUDDERSTACK_PRODUCTION_KEY =
-
-GB_PROD_CLIENT_KEY =
-
-RUDDERSTACK_STAGING_KEY = 
-
-GB_STAGING_DECRYPTION_KEY = ''
-            const GB_PROD_CLIENT_KEY =
-
 
 
 
