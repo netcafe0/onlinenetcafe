@@ -1,8 +1,8 @@
-[!] POSSIBLE SIMPLE PASSWORDS TOKEN FOUND (keyword used:deriv.com)
-[+] Commit (853 days ago) : 2022-11-02T08:13:00Z by yashim@deriv.com
-[+] RAW URL : https://raw.githubusercontent.com/coderempits/deriv-com-sandbox/4fe6f0ffc52d057e3421f30fe770b12d5947a47f/src/types/graphql.types.ts
-[+] Token : password: MaybeScalars[String]
-[+] Repository URL : https://github.com/coderempits/deriv-com-sandbox
+POSSIBLE SIMPLE PASSWORDS TOKEN FOUND (keyword used:deriv.com)
+[+] Commit (18 hours ago) : 2025-03-03T11:30:46Z by sysadmin@binary.com
+[+] RAW URL : https://raw.githubusercontent.com/binary-com/translations-websockets-api/9b6d8d63d524c5b77a78da061eb38d13ddbf39ba/src/en.po
+[+] Token : password please help us to verify your identity by entering the following verification token into the password reset form:
+[+] Repository URL : https://github.com/binary-com/translations-websockets-api
 
 search in page for
 
@@ -12,29 +12,7 @@ RUDDERSTACK_PRODUCTION_KEY =
 
 GB_PROD_CLIENT_KEY =
 
-RUDDERSTACK_STAGING_KEY = 
-
-GB_STAGING_DECRYPTION_KEY = ''
-            const GB_PROD_CLIENT_KEY =
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+RUDDERSTACK_STAGING_KEY =
 
 
 
